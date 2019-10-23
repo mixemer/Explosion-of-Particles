@@ -1,4 +1,4 @@
-# Explotion-of-Particals
+# Explosion-of-Particles
 Created a small GUI (SDL) program in C++ 
 
 
